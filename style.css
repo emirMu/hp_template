@@ -1,0 +1,48 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto:100,300,400,500';
+@import 'https://fonts.googleapis.com/css?family=Source+Code+Pro';
+
+body {
+	margin: 0 auto;
+	max-width: 50em;
+	font-family: "Roboto";
+	line-height: 1.5;
+	color: #555;
+}
+
+header {
+	background-color: #263d36;
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+	font-family: 'Source Code Pro', monospace;
+}
+header h1{
+	color: white;
+	font-size: 2.50em;
+	font-weight: 300;
+}
+
+main {
+}
+main h1 {
+	font-size: 1em;
+	font-weight: 
+}
+
+
+footer {
+	background-color: #263d36;
+	background-position: center top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	text-align: center;
+}
+footer h1 {
+	color: white;
+	font-size: 0.7em;
+	font-weight: 100;
+}
+
+/* http://jgthms.com/web-design-in-4-minutes/#share
+/* http://marksheet.io/
